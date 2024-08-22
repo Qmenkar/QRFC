@@ -1,5 +1,5 @@
 # QRFC
-Ration Food Calculator / Рiking Кation Сalculator / Spreadsheet
+Ration Food Calculator / Hiking Ration Сalculator / Spreadsheet
 
 ## Описание:
 
